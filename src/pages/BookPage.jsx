@@ -161,13 +161,8 @@ const BookPage = () => {
             )}
             <button
               onClick={() => handleDeleteName(index)}
-              className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded text-sm cursor-pointer flex items-center gap-[5px]"
+              className="bg-red-500 hover:bg-red-600 text-white px-3 py-1 rounded text-sm cursor-pointer"
             >
-              <img
-                src="./trash-2-xxl.png"
-                alt="trash icon"
-                className="h-[12px] inline"
-              />
               Delete
             </button>
           </li>
