@@ -8,7 +8,7 @@ const Homepage = () => {
       <h6 className="text-[20px]">Welcome to my website</h6>
       <img
         src="./rickroll-roll.gif"
-        alt="Rickroll"
+        alt="Rickroll didn't load :("
         className="h-[500px] mt-[30px] mx-auto"
       />
       <p className="mt-[20px] mb-[20px]">hehe</p>
